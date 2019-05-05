@@ -1,153 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="18">
-  <CheatEntries>
-    <CheatEntry>
-      <ID>2</ID>
-      <Description>"PJ 1.6 OoT Entrance ID"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <ShowAsHex>1</ShowAsHex>
-      <Color>80000008</Color>
-      <VariableType>2 Bytes</VariableType>
-      <Address>"Project64.exe"+000D6A1C</Address>
-      <Offsets>
-        <Offset>11A5D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1</ID>
-      <Description>"PJ 1.7 OoT Entrance ID"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <ShowAsHex>1</ShowAsHex>
-      <Color>80000008</Color>
-      <VariableType>2 Bytes</VariableType>
-      <Address>"Project64.exe"+001002FC</Address>
-      <Offsets>
-        <Offset>11A5D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>12</ID>
-      <Description>"PJ 2.0 OoT Entrance ID"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <ShowAsHex>1</ShowAsHex>
-      <Color>80000008</Color>
-      <VariableType>2 Bytes</VariableType>
-      <Address>"Project64.exe"+000E3EC0</Address>
-      <Offsets>
-        <Offset>11A5D0</Offset>
-        <Offset>18</Offset>
-        <Offset>104</Offset>
-        <Offset>10</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>14</ID>
-      <Description>"1964 OoT Entrance ID"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <ShowAsHex>1</ShowAsHex>
-      <Color>80000008</Color>
-      <VariableType>2 Bytes</VariableType>
-      <Address>"1964.exe"+000189C4</Address>
-      <Offsets>
-        <Offset>11A5D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>8</ID>
-      <Description>"Mupen 64 OoT Entrance ID"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <ShowAsHex>1</ShowAsHex>
-      <Color>80000008</Color>
-      <VariableType>2 Bytes</VariableType>
-      <Address>46d010</Address>
-      <Offsets>
-        <Offset>11A5D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>9</ID>
-      <Description>"No description"</Description>
-      <LastState Activated="0" RealAddress="0046ABA2"/>
-      <Color>80000008</Color>
-      <VariableType>String</VariableType>
-      <Length>3</Length>
-      <Unicode>0</Unicode>
-      <ZeroTerminate>1</ZeroTerminate>
-      <Address>Project64.exe+6ABA2</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>10</ID>
-      <Description>"No description"</Description>
-      <LastState Value="??" Activated="0" RealAddress="4E31A5D0"/>
-      <Color>80000008</Color>
-      <VariableType>Byte</VariableType>
-      <Address>4E31A5D0</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>11</ID>
-      <Description>"No description"</Description>
-      <LastState Value="??" Activated="0" RealAddress="4E200000"/>
-      <Color>80000008</Color>
-      <VariableType>Byte</VariableType>
-      <Address>4E200000</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>13</ID>
-      <Description>"No description"</Description>
-      <LastState Value="??" Activated="0" RealAddress="20000000"/>
-      <Color>80000008</Color>
-      <VariableType>Byte</VariableType>
-      <Address>20000000</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>15</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <Color>80000008</Color>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"1964.exe"+000189C4</Address>
-      <Offsets>
-        <Offset>0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>16</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <Color>80000008</Color>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"1964.exe"+000189C4</Address>
-      <Offsets>
-        <Offset>0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>17</ID>
-      <Description>"No description"</Description>
-      <LastState Value="??" Activated="0" RealAddress="2944B6B0"/>
-      <Color>80000008</Color>
-      <VariableType>Byte</VariableType>
-      <Address>2944B6B0</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>18</ID>
-      <Description>"No description"</Description>
-      <LastState Value="??" Activated="0" RealAddress="293310E0"/>
-      <Color>80000008</Color>
-      <VariableType>Byte</VariableType>
-      <Address>293310E0</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>20</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <ShowAsHex>1</ShowAsHex>
-      <Color>80000008</Color>
-      <VariableType>2 Bytes</VariableType>
-      <Address>"mupen64plus.dll"+00001230</Address>
-      <Offsets>
-        <Offset>11A5D0</Offset>
-      </Offsets>
+        <?xml version="1.0" encoding="utf-8"?>
+    <CheatTable>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"TheChase-Win64-Shipping.exe"+039CA690</Address>
+          <Offsets>
+            <Offset>18F8</Offset>
+            <Offset>390</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatTable>
+class CLocalPlayer
+    {
+    public:
+    	char pad_0x0000[0x1788]; //0x0000
+    	float MaxHealth; //0x1788 
+    	float HealthRegen; //0x178C 
+    	float MaxStamina; //0x1790 
+    	float StaminaRegen; //0x1794 
+    	float MaxMana; //0x1798 
+    	float ManaRegen; //0x179C 
+    	char pad_0x17A0[0x10]; //0x17A0
+    	float PhysicalCritChance; //0x17B0 
+    	float MagicCritChance; //0x17B4 
+    	char pad_0x17B8[0x8]; //0x17B8
+    	float PhysicalDef; //0x17C0 
+    	float MagicDef; //0x17C4 
+    	float PostureResist; //0x17C8 
+    	char pad_0x17CC[0x4]; //0x17CC
+    	float AtkSpeed; //0x17D0 
+    	float CastingSpeed; //0x17D4 
+    	float MovSpeed; //0x17D8 
+    	float DamageMulti; //0x17DC 
+    	char pad_0x17E0[0x8C]; //0x17E0
+    	float Health; //0x186C 
+    	float RegenHealth; //0x1870 
+    	char pad_0x1874[0x84]; //0x1874
+    	float Stamina; //0x18F8 
+    	float Karma; //0x18FC 
+    	float Mana; //0x1900 
+    	char pad_0x1904[0x384]; //0x1904
+     
+    }; //Size=0x1C88
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
